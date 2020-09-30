@@ -23,7 +23,12 @@ def literal_aoh
   # held in the constants
   
   house_workers = [
-    {:name => "Don Gately", :occupation => }]
+    {:name => "Don Gately", :occupation => "Live-in Staff" },
+    {:name => "Don Gately", :occupation => "Live-in Staff" },
+    {:name => "Don Gately", :occupation => "Live-in Staff" },
+    {:name => "Don Gately", :occupation => "Live-in Staff" },
+    {:name => "Don Gately", :occupation => "Live-in Staff" },
+    ]
 end
 
 def aoh_lookup(aoh, row, key)
